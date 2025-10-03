@@ -1,0 +1,5 @@
+Fri Aug 22 07:57:33 2025
+ Learning C++ read/write files 
+ It is fun! 
+ Migrating C to C++ 
+ Hello World! 
